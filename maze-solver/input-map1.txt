@@ -1,8 +1,0 @@
-width(chiều ngang):5
-height(chiều dọc):5
-chú ý là phần bản đồ k để thừa khoảng trắng
-
-
-|||||
-|__ |
-|___|
